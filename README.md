@@ -1,4 +1,4 @@
-![Boxxle Logo](https://i.postimg.cc/8c0NfDcT/Boxxle-Banner.png)
+![Boxxle Logo](https://i.postimg.cc/cCp150SX/Boxxle-Banner.png)
 
 This is the GitHub for Boxxle GB Studio.
 

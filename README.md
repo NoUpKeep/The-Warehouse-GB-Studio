@@ -45,6 +45,10 @@ Note: At some point, I'll start using the Sok format.
 
 ![Screenshot of Level 1](https://i.postimg.cc/DZC8690M/Boxxle-SS.png)
 
+## Licence
+
+[GNU LESSER GENERAL PUBLIC LICENSE Version 2.1](https://github.com/CelestialDoom/Boxxle-GB-Studio/blob/main/LICENSE)
+
 ## Thanks go to:
 
 [GB Studio](https://github.com/chrismaltby/gb-studio) - Created by Chris Maltby

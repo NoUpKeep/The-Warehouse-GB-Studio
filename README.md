@@ -48,5 +48,7 @@ Note: At some point, I'll start using the Sok format.
 ## Thanks go to:
 
 [GB Studio](https://github.com/chrismaltby/gb-studio) - Created by Chris Maltby
+
 [PainShop Pro](http://paintshoppro.com/) - Corel
+
 Squared Paper (5 mm)

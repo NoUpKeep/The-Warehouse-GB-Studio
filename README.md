@@ -51,7 +51,7 @@ Note: At some point, I'll start using the Sok format.
 
 # Licence
 
-[GNU LESSER GENERAL PUBLIC LICENSE Version 2.1](https://github.com/CelestialDoom/Boxxle-GB-Studio/blob/main/LICENSE)
+[GNU LESSER GENERAL PUBLIC LICENSE Version 2.1](https://github.com/CelestialDoom/The-Warehouse-GB-Studio/blob/main/LICENSE)
 
 # Thanks go to:
 

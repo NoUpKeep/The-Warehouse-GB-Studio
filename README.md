@@ -47,7 +47,7 @@ across (starting from zero) and down (starting from zero).
 
 Submit levels on the comments (for the time being).
 
-Note: At some point, I'll start using the ![Sok format](http://www.sokobano.de/wiki/index.php?title=Sok_format).
+Note: At some point, I'll start using the [Sok format](http://www.sokobano.de/wiki/index.php?title=Sok_format).
 
 # Assets
 

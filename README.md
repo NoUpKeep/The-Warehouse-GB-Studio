@@ -12,8 +12,11 @@ This is the GitHub for The Warehouse using [GB Studio](https://github.com/chrism
 # What Is Boxxle?
 
 **BOXXLE** is a game.
+
 **BOXXLE** is a puzzle.
+
 **BOXXLE** is the go-anywhere brain teaser for the Game Boy system that you just can't put down.
+
 The game is based on moving crates around in a warehouse.
 But manual labour won't win the game: it takes brain power to move boxes into their proper spaces to clean up the room and get to the next screen... and the next... and the next!
 

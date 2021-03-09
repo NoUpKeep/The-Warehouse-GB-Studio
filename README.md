@@ -1,6 +1,8 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) ![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+
 ![Boxxle Logo](https://i.postimg.cc/dVvVTx7b/Start-Screen.png)
 
-This is the GitHub for The Warehouse GB Studio.
+This is the GitHub for The Warehouse using [GB Studio](https://github.com/chrismaltby/gb-studio).
 
 # About
 

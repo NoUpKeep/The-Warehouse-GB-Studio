@@ -1,8 +1,12 @@
-![Boxxle Logo](https://i.postimg.cc/cCp150SX/Boxxle-Banner.png)
+![Boxxle Logo](https://i.postimg.cc/dVvVTx7b/Start-Screen.png)
 
-This is the GitHub for Boxxle GB Studio.
+This is the GitHub for The Warehouse GB Studio.
 
 # About
+
+**The Warehouse** is a Boxxle clone, created using GB Studio.
+
+# What Is Boxxle?
 
 **BOXXLE** is a game.
 **BOXXLE** is a puzzle.
@@ -10,7 +14,7 @@ This is the GitHub for Boxxle GB Studio.
 The game is based on moving crates around in a warehouse.
 But manual labour won't win the game: it takes brain power to move boxes into their proper spaces to clean up the room and get to the next screen... and the next... and the next!
 
-## Create levels
+# Create levels
 
 After **Level 10** the levels will switch from the actual levels from **Boxxle** to user created levels.
 The layout is as follows:
@@ -41,15 +45,15 @@ Note: At some point, I'll start using the Sok format.
 
   
 
-## Screenshots
+# Screenshots
 
 ![Screenshot of Level 1](https://i.postimg.cc/DZC8690M/Boxxle-SS.png)
 
-## Licence
+# Licence
 
 [GNU LESSER GENERAL PUBLIC LICENSE Version 2.1](https://github.com/CelestialDoom/Boxxle-GB-Studio/blob/main/LICENSE)
 
-## Thanks go to:
+# Thanks go to:
 
 [GB Studio](https://github.com/chrismaltby/gb-studio) - Created by Chris Maltby
 

@@ -47,9 +47,25 @@ across (starting from zero) and down (starting from zero).
 
 Submit levels on the comments (for the time being).
 
-Note: At some point, I'll start using the Sok format.
+Note: At some point, I'll start using the ![Sok format](http://www.sokobano.de/wiki/index.php?title=Sok_format).
 
-  
+# Assets
+
+Player:
+
+![Player](https://i.postimg.cc/Z5JS8JXJ/Player.png)
+
+Box:
+
+![Box](https://i.postimg.cc/256Nt2zJ/box-thewarehouse.png)
+
+Ending Point:
+
+![Ending Point](https://i.postimg.cc/bJScyrS9/boxending.png)
+
+Wall:
+
+![Wall](https://i.postimg.cc/KYKsLVcZ/wall-thewarehouse.png)
 
 # Screenshots
 

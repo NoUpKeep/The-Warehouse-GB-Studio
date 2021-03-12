@@ -9,13 +9,13 @@ This is the GitHub for The Warehouse using [GB Studio](https://github.com/chrism
 
 **The Warehouse** is a Boxxle clone, created using GB Studio.
 
-# What Is Boxxle?
+# What Is **THE WAREHOUSE**?
 
-**The Warehouse** is a game.
+**THE WAREHOUSE** is a game.
 
-**The Warehouse** is a puzzle.
+**THE WAREHOUSE** is a puzzle.
 
-**The Warehouse** is the go-anywhere brain teaser for the Game Boy system that you just can't put down.
+**THE WAREHOUSE** is the go-anywhere brain teaser for the Game Boy system that you just can't put down.
 
 The game is based on moving crates around in a warehouse.
 But manual labour won't win the game: it takes brain power to move boxes into their proper spaces to clean up the room and get to the next screen... and the next... and the next!

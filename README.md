@@ -1,7 +1,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) ![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 
-![The Warehouse Logo](https://i.postimg.cc/dVvVTx7b/Start-Screen.png)
+![The Warehouse Logo](https://i.postimg.cc/cJpBrQsC/The-Ware-House-Banner.png)
 
 This is the GitHub for The Warehouse using [GB Studio](https://github.com/chrismaltby/gb-studio).
 
@@ -81,4 +81,6 @@ Wall:
 
 [PainShop Pro](http://paintshoppro.com/) - Corel
 
-Squared Paper (5 mm)
+Squared Paper (5 mm) - Planning the levels
+
+[itch.io](https://celestial-doom.itch.io/the-warehouse) - For hosting the game

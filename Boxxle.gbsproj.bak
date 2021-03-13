@@ -11465,8 +11465,8 @@
             "playerHit2Script": [],
             "playerHit3Script": [],
             "id": "0304d01f-f0d7-4d18-843c-40b2953efb5e",
-            "x": 465.47621162193104,
-            "y": 32.14285718956772,
+            "x": 265.3333501163057,
+            "y": 36.866681569078395,
             "actors": [],
             "triggers": []
         },
@@ -12858,7 +12858,7 @@
         "showCollisions": true,
         "showConnections": true,
         "worldScrollX": 533,
-        "worldScrollY": 400,
+        "worldScrollY": 1491,
         "zoom": 233.3333282470703,
         "customColorsEnabled": true,
         "defaultBackgroundPaletteIds": [

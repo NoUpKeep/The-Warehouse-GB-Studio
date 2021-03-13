@@ -57,7 +57,7 @@ Note: At some point, I'll start using the [Sok format](http://www.sokobano.de/wi
 
 Player:
 
-![Player](https://i.postimg.cc/Z5JS8JXJ/Player.png)
+![Player](https://i.postimg.cc/xdqsn2vn/Player.png)
 
 Box:
 

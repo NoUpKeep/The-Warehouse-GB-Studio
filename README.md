@@ -5,6 +5,10 @@
 
 This is the GitHub for The Warehouse using [GB Studio](https://github.com/chrismaltby/gb-studio).
 
+# Game box mock-up
+
+![GB Box](https://i.postimg.cc/qqRsFQwm/The-Warehouse-Box.png)
+
 # About
 
 **The Warehouse** is a Boxxle clone, created using GB Studio.

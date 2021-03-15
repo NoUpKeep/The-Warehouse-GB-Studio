@@ -1,7 +1,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) ![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 
-![The Warehouse Logo](https://i.postimg.cc/cJpBrQsC/The-Ware-House-Banner.png)
+![The Warehouse Logo](https://i.postimg.cc/C135qyLp/The-Ware-House-Banner.png)
 
 This is the GitHub for The Warehouse using [GB Studio](https://github.com/chrismaltby/gb-studio).
 

@@ -9,6 +9,10 @@ This is the GitHub for The Warehouse using [GB Studio](https://github.com/chrism
 
 ![GB Box](https://i.postimg.cc/qqRsFQwm/The-Warehouse-Box.png)
 
+# Game cartridge mock-up
+
+![GB Cart](https://i.postimg.cc/Dz2GWGR1/The-Warehouse-Cart.png)
+
 # About
 
 **The Warehouse** is a Boxxle clone, created using GB Studio.
